@@ -12,7 +12,7 @@ This project involves web scraping data for the top 250 movies listed on IMDb. T
 - BeautifulSoup
 - Pandas
 
-Feel free to explore the 👉 [Jupyter Notebook]([YOUR_NOTEBOOK_LINK](https://github.com/mudit-mishra8/Imdb-web-scrapping/blob/main/WEBSCRAPPING_IMDB_top_250.ipynb)) for the detailed code and data extraction process.
+Feel free to explore the 👉 [Jupyter Notebook](https://github.com/mudit-mishra8/Imdb-web-scrapping/blob/main/WEBSCRAPPING_IMDB_top_250.ipynb)) for the detailed code and data extraction process.
 
 ## Data
 
